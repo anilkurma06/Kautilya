@@ -1,0 +1,7 @@
+sentence-transformers==3.0.1
+transformers==4.46.0
+huggingface_hub>=0.34.0
+faiss-cpu==1.13.0
+torch>=2.0.0
+numpy
+scikit-learn
